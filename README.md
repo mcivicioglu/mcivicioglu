@@ -1,16 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Mahmut Çivicioğlu</h1>
-<h3 align="center">🚀 Aspiring .NET Developer | Bridging railway systems engineering with backend development.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=2,15,30&height=200&section=header&text=Hi%20there%20👋,%20I'm%20Mahmut&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20.NET%20Developer%20|%20Railway%20Systems%20Engineer&descSize=16&descAlignY=62" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmutcivicioglu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Izmir%2C%20Turkey-blue?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/.NET_Bootcamp-Active-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Bootcamp" />
 </p>
 
 ---
 
-### 💻 About Me
+### 👨‍💻 About Me
 
 - 🔭 I’m currently learning the **.NET ecosystem**, **Clean Architecture**, and modern backend development practices.
 - 🌱 Exploring **C#**, **Entity Framework Core**, and **SQL Server**.
@@ -21,13 +23,10 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,visualstudio,git,github" />
+  </a>
 </p>
 
 ---
