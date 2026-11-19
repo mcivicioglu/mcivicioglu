@@ -1,167 +1,165 @@
-<!--
-  MAHMUT ÇİVİCİOĞLU
-  .NET DEVELOPER PORTFOLIO
-  GitHub Profile README
--->
-
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:110B22,45:2D1B4E,100:512BD4&height=8&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:512BD4&height=220&section=header&text=Mahmut%20%C3%87ivicio%C4%9Flu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=From%20Railway%20Signals%20to%20Backend%20Services&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=13&duration=2200&pause=700&color=9A67FF&center=true&vCenter=true&repeat=true&width=550&lines=SIGNALING+TECHNICIAN+%2F+ASPIRING+.NET+DEVELOPER;RAILWAY+SYSTEMS+%2F+BACKEND+ARCHITECTURE;BRIDGING+HARDWARE+AND+SOFTWARE." alt="Animated intro" />
-
-# Mahmut Çivicioğlu
-
-### Bridging railway systems engineering with backend development.
-
-**SIGNALING & COMMUNICATION TECHNICIAN · EGE UNIVERSITY ALUMNI · ASPIRING .NET DEVELOPER**
-
-<br/>
-
-<a href="mailto:mcivicioglu35@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-512BD4?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 <a href="https://github.com/mcivicioglu">
-<img src="https://img.shields.io/badge/GITHUB-110B22?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mahmutcivicioglu/">
-<img src="https://img.shields.io/badge/LINKEDIN-2D1B4E?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=620&lines=.NET+Backend+Developer+in+the+making+%F0%9F%9A%80;Signaling+%26+Communication+Technician+%40+%C4%B0zmir+Metro;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+EF+Core+%E2%80%A2+SQL+Server;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+DI" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mcivicioglu&label=PROFILE+READERS&color=512BD4&style=flat-square" />
+<a href="https://www.linkedin.com/in/mahmutcivicioglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mcivicioglu35@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/%C4%B0zmir%2C%20T%C3%BCrkiye-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=mcivicioglu&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
-
----
-
-<div align="right">
-<sub>01 — THE INTRODUCTION</sub>
-</div>
-
-## Beyond writing code.
-
-I'm **Mahmut Çivicioğlu**, working as a **Signaling & Communication Technician at İzmir Metro A.Ş.**, managing critical railway infrastructure and communication systems.
-
-I graduated from **Ege University, Ege Vocational School (Ege MYO)**. Currently, I am expanding my technical boundaries by stepping into software engineering and pursuing an intensive **.NET Developer Bootcamp**.
-
-My focus is building robust, scalable backend architectures with **C# and .NET ecosystem**. I enjoy transferring the analytical problem-solving and reliability mindset required in railway signaling systems directly into software design.
-
-I approach software development with one principle:
-
-> Good software is not just about making it work. It's about making it understandable, maintainable, and ready to evolve.
 
 <br/>
 
-| CURRENT FOCUS | BACKGROUND & ENGINEERING |
-|:---|:---|
-| .NET Ecosystem & C# | Railway Signaling & Communication |
-| ASP.NET Core | Ege University Graduate |
-| Clean Architecture | Hardware Automation (IoT / Pi) |
-| SQL Server & EF Core | Critical Infrastructure Ops |
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+## 🛤️ About Me
 
----
+I keep trains moving safely by day and build backend systems by night.
+As a **Signaling & Communication Technician at İzmir Metro A.Ş.**, I work with systems where reliability isn't optional — and I bring that same mindset to software: **predictable, testable, and built to last.**
 
-<div align="right">
-<sub>02 — THE ENGINEERING STACK</sub>
-</div>
+```csharp
+public sealed record Developer
+{
+    public string Name       => "Mahmut Çivicioğlu";
+    public string Role       => "Aspiring .NET Backend Developer";
+    public string DayJob     => "Signaling & Communication Technician @ İzmir Metro A.Ş.";
+    public string Education  => "Ege University — Ege Vocational School";
+    public string Learning   => ".NET Developer Bootcamp";
 
-## Tools of the craft.
+    public string[] Stack    => ["C#", ".NET", "ASP.NET Core", "EF Core", "SQL Server"];
+    public string[] Mindset  => ["Clean Architecture", "SOLID", "Repository Pattern", "Dependency Injection"];
 
-I combine industrial systems engineering with modern backend development tools.
-
-### 01 / Backend & Core
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-        <br>.NET
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="48" height="48" alt="SQL Server" />
-        <br>SQL Server
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 02 / Workflow & Tooling
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-        <br>Visual Studio
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 03 / Engineering Principles
-
-- Clean Architecture
-- SOLID Principles
-- Layered Architecture
-- Repository Pattern
-- Dependency Injection
-- Object-Oriented Programming
-
----
-
-<div align="center">
-
-<sub>03 — THE CONTRIBUTION GARDEN</sub>
-
-# 🐍 Growing through consistency.
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=2500&pause=1000&color=9A67FF&center=true&vCenter=true&width=450&lines=EVERY+COMMIT+TELLS+A+STORY.;SMALL+STEPS.+MEANINGFUL+PROGRESS.;KEEP+BUILDING.+KEEP+GROWING." alt="Contribution animation" />
+    public string Motto      => "Make it work. Make it clear. Make it ready to evolve.";
+}
+```
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mcivicioglu/mcivicioglu/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
-
-<br/>
-
-<sub>CONSISTENCY IS THE KEY TO GROWTH.</sub>
-
-</div>
-
----
+<!-- ═══════════════════════════  TECH STACK  ═══════════════════════════ -->
+## 🧰 Tech Stack
 
 <div align="center">
 
-## Let's build something meaningful.
+**Backend & Data**
 
-**Open to learning, collaboration, and interesting engineering challenges.**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker&theme=dark" alt="Backend"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-6C3FC5?style=for-the-badge&logo=nuget&logoColor=white" alt="EF Core"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-<a href="mailto:mcivicioglu35@gmail.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-512BD4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Frontend**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend"/>
 
-<sub>DESIGNED WITH CURIOSITY. BUILT WITH CODE.</sub>
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman&theme=dark" alt="Tools"/>
+
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,50:2D1B4E,100:110B22&height=8&section=footer" />
+<!-- ═══════════════════════════  PRINCIPLES  ═══════════════════════════ -->
+## 🧭 Engineering Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏛️ **Clean Architecture** — clear boundaries, independent layers
+🧱 **SOLID** — small, focused, replaceable parts
+🗂️ **Repository & Unit of Work** — data access behind clean contracts
+
+</td>
+<td width="50%" valign="top">
+
+💉 **Dependency Injection** — loose coupling, easy testing
+🔐 **Security by default** — Identity, validation, anti-forgery
+🚦 **Fail-safe thinking** — a habit from railway signaling
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [MYA_PortfolioProject](https://github.com/mcivicioglu/MYA_PortfolioProject)
+A personal portfolio with a full **admin panel** for managing content — built with **ASP.NET Core MVC** and **EF Core**.
+
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-6C3FC5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ [MYA_IdentityEmail](https://github.com/mcivicioglu/MYA_IdentityEmail)
+Authentication and e-mail workflows powered by **ASP.NET Core Identity** — registration, login and secure user management.
+
+<img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mcivicioglu&show_icons=true&hide_border=true&bg_color=0B1120&title_color=7C9CFF&icon_color=512BD4&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcivicioglu&layout=compact&hide_border=true&bg_color=0B1120&title_color=7C9CFF&text_color=CBD5E1" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=mcivicioglu&hide_border=true&background=0B1120&ring=512BD4&fire=7C9CFF&currStreakLabel=7C9CFF&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E293B" alt="GitHub Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mcivicioglu&bg_color=0B1120&color=CBD5E1&line=512BD4&point=7C9CFF&area=true&area_color=1E3A8A&hide_border=true&title_color=7C9CFF" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════  CURRENTLY  ═══════════════════════════ -->
+## 🔭 Right Now
+
+- 🎓 Completing a **.NET Developer Bootcamp**
+- 🏗️ Building real-world projects with **ASP.NET Core MVC & EF Core**
+- 📚 Going deeper into **Clean Architecture, Web API & CQRS**
+- 🤝 Open to **junior .NET backend roles** and collaboration
+
+<br/>
+
+<!-- ═══════════════════════════  QUOTE + FOOTER  ═══════════════════════════ -->
+<div align="center">
+
+> *"Good software is not just about making it work.*
+> *It's about making it understandable, maintainable, and ready to evolve."*
+
+<br/>
+
+**Let's connect — the next station might be a project together.** 🚉
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:1E3A8A,100:0B1120&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
