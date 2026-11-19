@@ -136,7 +136,7 @@ I combine industrial systems engineering with modern backend development tools.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SevimBusraGul78/SevimBusraGul78/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/mcivicioglu/mcivicioglu/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 <br/>
 
