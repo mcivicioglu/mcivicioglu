@@ -50,10 +50,12 @@ public sealed record Developer
 **Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker&theme=dark" alt="Backend"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-6C3FC5?style=for-the-badge&logo=nuget&logoColor=white" alt="EF Core"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-6C3FC5?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+<br/>
 
 **Frontend**
 
